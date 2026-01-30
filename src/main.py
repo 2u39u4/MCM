@@ -1,15 +1,13 @@
-from models.weighted import WeightedModel
-from config import WEIGHTS
 import numpy as np
+from visualization import plot_heatmap
 
 if __name__ == "__main__":
-    X = np.array([
-        [1, 2, 3],
-        [2, 3, 4],
-        [3, 4, 5]
-    ])
+    # 模拟数据：10 个样本，3 个指标
+    data = np.random.rand(10, 3) * 10
 
-    model = WeightedModel(WEIGHTS)
-    scores = model.predict(X)
+    # 输出前 5 行看看
+    print("Sample data:\n", data[:5])
 
-    print("Model output:", scores)
+    # 画热力图
+    plot_heatmap(data)
+    print("Heatmap saved to output/figures/heatmap.png")
