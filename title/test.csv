@@ -1,0 +1,422 @@
+season,celebrity_name,placement,celebrity_industry,celebrity_homestate,celebrity_homecountry/region,celebrity_age_during_season,avg_judge_score
+1,Kelly Monaco,1,Actor/Actress,Pennsylvania,United States,29,7.1111
+1,John O'Hurley,2,Actor/Actress,Maine,United States,50,8.0556
+1,Joey McIntyre,3,Singer/Rapper,Massachusetts,United States,32,7.0333
+1,Rachel Hunter,4,Model,,New Zealand,35,7.9167
+1,Evander Holyfield,5,Athlete,Alabama,United States,42,5.0000
+1,Trista Sutter,6,TV Personality,Indiana,United States,32,6.1667
+2,Drew Lachey,1,Singer/Rapper,Ohio,United States,29,9.1458
+2,Jerry Rice,2,Athlete,Mississippi,United States,43,7.5069
+2,Stacy Keibler,3,Athlete,Maryland,United States,26,9.1736
+2,Lisa Rinna,4,Actor/Actress,California,United States,42,8.0238
+2,George Hamilton,5,Actor/Actress,Tennessee,United States,66,7.2222
+2,Tia Carrere,6,Actor/Actress,Hawaii,United States,39,7.6667
+2,Master P,7,Singer/Rapper,Louisiana,United States,35,4.1667
+2,Giselle Fernandez,8,News Anchor,,Mexico,44,7.6667
+2,Tatum O'Neal,9,Actor/Actress,California,United States,42,6.6667
+2,Kenny Mayne,10,Sports Broadcaster,Washington,United States,46,4.3333
+3,Emmitt Smith,1,Athlete,Florida,United States,37,8.5889
+3,Mario Lopez,2,Actor/Actress,California,United States,32,8.9556
+3,Joey Lawrence,3,Actor/Actress,Pennsylvania,United States,30,8.6296
+3,Monique Coleman,4,Actor/Actress,South Carolina,United States,25,8.3125
+3,Jerry Springer,5,TV Personality,,England,62,6.8095
+3,Sara Evans,6,Singer/Rapper,Missouri,United States,35,7.0000
+3,Willa Ford,7,Singer/Rapper,Florida,United States,25,8.1333
+3,Vivica A. Fox,8,Actor/Actress,Indiana,United States,42,8.0833
+3,Harry Hamlin,9,Actor/Actress,California,United States,54,6.6667
+3,Shanna Moakler,10,Model,Rhode Island,United States,31,6.6667
+3,Tucker Carlson,11,TV Personality,California,United States,37,4.0000
+4,Apolo Anton Ohno,1,Athlete,Washington,United States,24,8.9611
+4,Joey Fatone,2,Singer/Rapper,New York,United States,30,8.9222
+4,Laila Ali,3,Athlete,Florida,United States,29,8.7444
+4,Ian Ziering,4,Actor/Actress,New Jersey,United States,42,8.0926
+4,Billy Ray Cyrus,5,Singer/Rapper,Kentucky,United States,45,6.3333
+4,John Ratzenberger,6,Actor/Actress,Connecticut,United States,59,6.3571
+4,Heather Mills,7,Model,,England,39,7.3889
+4,Clyde Drexler,8,Athlete,Louisiana,United States,44,5.2000
+4,Leeza Gibbons,9,TV Personality,South Carolina,United States,50,6.3333
+4,Shandi Finnessey,10,Beauty Pagent,Missouri,United States,28,6.6667
+4,Paulina Porizkova,11,Model,,Czechoslovakia,41,6.6667
+5,Helio Castroneves,1,Racing Driver,,Brazil,32,8.8833
+5,Mel B,2,Singer/Rapper,,England,32,9.0778
+5,Marie Osmond,3,Singer/Rapper,Utah,United States,47,8.0833
+5,Jennie Garth,4,Actor/Actress,Illinois,United States,35,8.4259
+5,Cameron Mathison,5,Actor/Actress,,Canada,38,8.0833
+5,Jane Seymour,6,Actor/Actress,,England,56,8.1429
+5,Sabrina Bryan,7,Actor/Actress,California,United States,23,9.0000
+5,Mark Cuban,8,TV Personality,Pennsylvania,United States,49,6.8000
+5,Floyd Mayweather Jr. ,9,Athlete,Michigan,United States,30,6.9167
+5,Wayne Newton,10,Singer/Rapper,Virginia,United States,65,5.7778
+5,Albert Reed,11,Model,Florida,United States,22,7.0000
+5,Josie Maran,12,Model,California,United States,29,5.3333
+6,Kristi Yamaguchi,1,Athlete,California,United States,36,9.4000
+6,Jason Taylor,2,Athlete,Pennsylvania,United States,33,8.7167
+6,Cristian de la Fuente,3,Actor/Actress,,Chile,34,8.2500
+6,Marissa Jaret Winokur,4,Actor/Actress,New York,United States,35,7.7407
+6,Mario,5,Singer/Rapper,Maryland,United States,21,8.4167
+6,Shannon Elizabeth,6,Actor/Actress,Texas,United States,34,8.0714
+6,Marlee Matlin,7,Actor/Actress,Illinois,United States,42,7.4444
+6,Priscilla Presley,8,Actor/Actress,New York,United States,62,7.6000
+6,Adam Carolla,9,Radio Personality,California,United States,43,6.1667
+6,Steve Guttenberg,10,Actor/Actress,New York,United States,49,6.1111
+6,Monica Seles,11,Athlete,,Yugoslavia,34,5.0000
+6,Penn Jillette,12,Magician,Massachusetts,United States,53,5.5000
+7,Brooke Burke,1,TV Personality,Connecticut,United States,37,8.9833
+7,Warren Sapp,2,Athlete,Florida,United States,35,8.0833
+7,Lance Bass,3,Singer/Rapper,Mississippi,United States,29,8.1167
+7,Cody Linley,4,Actor/Actress,Texas,United States,18,7.6111
+7,Maurice Greene,5,Athlete,Kansas,United States,34,7.4792
+7,Susan Lucci,6,Actor/Actress,New York,United States,61,7.3095
+7,Cloris Leachman,7,Actor/Actress,Iowa,United States,82,5.8333
+7,Toni Braxton,8,Singer/Rapper,Maryland,United States,40,7.4333
+7,Rocco DiSpirito,9,TV Personality,New York,United States,41,5.9583
+7,Misty May-Treanor,10,Athlete,California,United States,31,7.0000
+7,Kim Kardashian,11,TV Personality,California,United States,27,5.9167
+7,Ted McGinley,12,Actor/Actress,California,United States,50,6.1667
+7,Jeffrey Ross,13,Comedian,New Jersey,United States,43,4.0000
+8,Shawn Johnson,1,Athlete,Iowa,United States,17,8.8182
+8,Gilles Marini,2,Actor/Actress,,France,33,9.2273
+8,Melissa Rycroft,3,TV Personality,Texas,United States,26,8.8939
+8,Ty Murray,4,Athlete,Arizona,United States,39,7.2667
+8,Lil' Kim,5,Singer/Rapper,New York,United States,34,8.5185
+8,Chuck Wicks,6,Singer/Rapper,Delaware,United States,29,7.6458
+8,Lawrence Taylor,7,Athlete,Virginia,United States,50,6.5714
+8,Steve-O,8,TV Personality,,England,34,5.2778
+8,David Alan Grier,9,Actor/Actress,Michigan,United States,52,6.9333
+8,Steve Wozniak,10,Entrepreneur,California,United States,58,4.3333
+8,Holly Madison,11,TV Personality,Oregon,United States,30,5.7500
+8,Denise Richards,12,Actor/Actress,Illinois,United States,38,6.1111
+8,Belinda Carlisle,13,Singer/Rapper,California,United States,50,5.8333
+9,Donny Osmond,1,Singer/Rapper,Utah,United States,51,8.8222
+9,Mya,2,Singer/Rapper,Washington D.C.,United States,29,9.4778
+9,Kelly Osbourne,3,TV Personality,,England,24,8.1574
+9,Joanna Krupa,4,Model,,Poland,30,9.0185
+9,Aaron Carter,5,Singer/Rapper,Florida,United States,21,8.6042
+9,Mark Dacascos,6,Actor/Actress,Hawaii,United States,45,8.0714
+9,Michael Irvin,7,Athlete,Florida,United States,43,6.4524
+9,Louie Vito,8,Athlete,Ohio,United States,21,7.1111
+9,Melissa Joan Hart,9,Actor/Actress,New York,United States,33,7.6111
+9,Natalie Coughlin,10,Athlete,California,United States,27,8.0000
+9,Chuck Liddell,11,Athlete,California,United States,39,6.2500
+9,Debi Mazar,12,Actor/Actress,New York,United States,45,6.6667
+9,Tom DeLay,13,Politician,Texas,United States,62,5.8889
+9,Kathy Ireland,14,Model,California,United States,46,6.3333
+9,Macy Gray,15,Singer/Rapper,Ohio,United States,42,6.3333
+9,Ashley Hamiliton,16,Actor/Actress,California,United States,34,6.3333
+10,Nicole Scherzinger,1,Singer/Rapper,Hawaii,United States,31,9.3593
+10,Evan Lysacek,2,Athlete,Illinois,United States,24,8.7630
+10,Erin Andrews,3,Sports Broadcaster,Maine,United States,32,8.3167
+10,Chad Ochocinco,4,Athlete,Florida,United States,32,7.3889
+10,Niecy Nash,5,Actor/Actress,California,United States,40,7.0000
+10,Pamela Anderson,6,Model,,Canada,42,7.8095
+10,Jake Pavelka,7,TV Personality,Texas,United States,32,7.1111
+10,Kate Gosselin,8,TV Personality,Pennsylvania,United States,35,5.1333
+10,Aiden Turner,9,Actor/Actress,,England,32,5.8750
+10,Buzz Aldrin,10,Astronaut,New Jersey,United States,80,4.3333
+10,Shannen Doherty,11,Actor/Actress,Tennessee,United States,38,6.3333
+11,Jennifer Grey,1,Actor/Actress,New York,United States,50,9.0000
+11,Kyle Massey,2,Actor/Actress,Georgia,United States,19,8.2527
+11,Bristol Palin,3,TV Personality,Alaska,United States,19,7.3925
+11,Brandy,4,Singer/Rapper,Mississippi,United States,31,8.8750
+11,Kurt Warner,5,Athlete,Iowa,United States,39,7.4000
+11,Rick Fox,6,Athlete,,Canada,41,7.9545
+11,Audrina Patridge,7,TV Personality,California,United States,25,8.1111
+11,Florence Henderson,8,Actor/Actress,Indiana,United States,76,6.3667
+11,The Situation,9,TV Personality,New York,United States,28,5.5833
+11,Margaret Cho,10,Comedian,California,United States,41,5.6667
+11,Michael Bolton,11,Singer/Rapper,Connecticut,United States,57,4.6667
+11,David Hasselhoff,12,Actor/Actress,Maryland,United States,58,5.0000
+12,Hines Ward,1,Athlete,,South Korea,35,8.6344
+12,Kirstie Alley,2,Actor/Actress,Kansas,United States,60,7.9516
+12,Chelsea Kane,3,Actor/Actress,Arizona,United States,22,8.6344
+12,Ralph Macchio,4,Actor/Actress,New York,United States,49,7.7500
+12,Romeo,5,Singer/Rapper,Louisiana,United States,21,7.8000
+12,Kendra Wilkinson,6,TV Personality,California,United States,25,7.0682
+12,Chris Jericho,7,Athlete,New York,United States,40,7.4444
+12,Petra Nemcova,8,Model,,Czechoslovakia,31,7.0667
+12,Sugar Ray Leonard,9,Athlete,North Carolina,United States,54,6.2500
+12,Wendy Williams,10,TV Personality,New Jersey,United States,46,5.1111
+12,Mike Catherwood,11,Radio Personality,California,United States,32,5.0000
+13,J.R. Martinez,1,Actor/Actress,Louisiana,United States,28,8.7722
+13,Rob Kardashian,2,TV Personality,California,United States,24,8.1278
+13,Ricki Lake,3,Actor/Actress,New York,United States,42,8.8667
+13,Hope Solo,4,Athlete,Washington,United States,30,7.6852
+13,Nancy Grace,5,TV Personality,Georgia,United States,51,7.0417
+13,David Arquette,6,Actor/Actress,Virginia,United States,40,7.3571
+13,Chaz Bono,7,TV Personality,California,United States,42,6.2778
+13,Carson Kressley,8,TV Personality,Pennsylvania,United States,41,6.4667
+13,Chynna Phillips,9,Singer/Rapper,California,United States,43,7.5000
+13,Kristin Cavallari,10,TV Personality,Colorado,United States,24,7.2222
+13,Elisabetta Canalis,11,Actor/Actress,,Italy,33,6.0000
+13,Metta World Peace (Ron),12,Athlete,New York,United States,31,4.6667
+14,Donald Driver,1,Athlete,Texas,United States,37,9.0389
+14,Katherine Jenkins,2,Singer/Rapper,,Wales,31,9.5167
+14,William Levy,3,Actor/Actress,,Cuba,31,9.2556
+14,Maria Menounos,4,TV Personality,Massachusetts,United States,33,8.9074
+14,Melissa Gilbert,5,Actor/Actress,California,United States,47,7.7500
+14,Roshon Fegan,6,Actor/Actress,California,United States,20,8.6667
+14,Jaleel White,7,Actor/Actress,California,United States,35,8.6428
+14,Gladys Knight,8,Singer/Rapper,Georgia,United States,67,7.3333
+14,Gavin DeGraw,9,Singer/Rapper,New York,United States,35,7.1333
+14,Sherri Sheperd,10,Actor/Actress,Illinois,United States,44,7.5833
+14,Jack Wagner,11,Actor/Actress,Missouri,United States,52,7.5556
+14,Martina Navratilova,12,Athlete,,Czechoslovakia,55,6.1667
+15,Melissa Rycroft,1,TV Personality,Texas,United States,29,9.4632
+15,Shawn Johnson,2,Athlete,Iowa,United States,20,9.4686
+15,Kelly Monaco,3,Actor/Actress,Pennsylvania,United States,36,9.0744
+15,Emmitt Smith,4,Athlete,Florida,United States,43,9.0377
+15,Apolo Anton Ohno,5,Athlete,Washington,United States,30,9.1300
+15,Gilles Marini,6,Actor/Actress,,France,36,9.3211
+15,Kirstie Alley,7,Actor/Actress,Kansas,United States,61,8.0500
+15,Sabrina Bryan,8,Actor/Actress,California,United States,28,8.8816
+15,Bristol Palin,9,TV Personality,Alaska,United States,21,7.0769
+15,Helio Castroneves,10,Racing Driver,,Brazil,37,7.7778
+15,Drew Lachey,11,Singer/Rapper,Ohio,United States,36,7.5556
+15,Joey Fatone,12,Singer/Rapper,New York,United States,35,7.1667
+15,Pamela Anderson,13,Model,,Canada,45,5.6667
+16,Kellie Pickler,1,Singer/Rapper,North Carolina,United States,26,8.9167
+16,Zendaya,2,Actor/Actress,California,United States,16,9.1000
+16,Jacoby Jones,3,Athlete,Louisiana,United States,28,8.4000
+16,Alexandra Raisman,4,Athlete,Massachusetts,United States,18,8.8167
+16,Ingo Rademacher,5,Actor/Actress,,Germany,41,7.5000
+16,Sean Lowe,6,TV Personality,Texas,United States,29,7.1667
+16,Andy Dick,7,Comedian,South Carolina,United States,47,6.3095
+16,Victor Ortiz,8,Athlete,Kansas,United States,26,6.5556
+16,D. L. Hughley,9,Comedian,Virginia,United States,50,5.5333
+16,Lisa Vanderpump,10,TV Personality,,England,52,6.2500
+16,Wynonna Judd,11,Singer/Rapper,Kentucky,United States,48,5.6667
+16,Dorothy Hamill,12,Athlete,Illinois,United States,56,6.0000
+17,Amber Riley,1,Actor/Actress,California,United States,27,9.2304
+17,Corbin Bleu,2,Actor/Actress,New York,United States,24,9.2255
+17,Jack Osbourne,3,TV Personality,,England,27,8.7059
+17,Bill Engvall,4,Comedian,Texas,United States,56,7.5735
+17,Leah Remini,5,Actor/Actress,New York,United States,43,8.2903
+17,Elizabeth Berkley Lauren,6,Actor/Actress,Michigan,United States,39,8.8518
+17,Brant Daugherty,7,Actor/Actress,Ohio,United States,28,8.6042
+17,"Nicole ""Snooki"" Polizzi",8,TV Personality,,Chile,25,8.3810
+17,Christina Milian,9,Singer/Rapper,New Jersey,United States,31,8.3333
+17,Valerie Harper,10,Actor/Actress,New York,United States,74,6.1667
+17,Bill Nye,11,TV Personality,Washington D.C.,United States,57,5.2222
+17,Keyshawn Johnson,12,Athlete,California,United States,41,5.8333
+18,Meryl Davis,1,Athlete,Michigan,United States,27,9.4054
+18,Amy Purdy,2,Athlete,Nevada,United States,34,9.1667
+18,Candace Cameron Bure,3,Actor/Actress,California,United States,37,8.3243
+18,James Maslow,4,Actor/Actress,New York,United States,23,8.9189
+18,Charlie White,5,Athlete,Michigan,United States,26,9.0441
+18,Danica McKellar,6,Actor/Actress,California,United States,39,8.8333
+18,NeNe Leakes,7,TV Personality,New York,United States,46,7.9615
+18,Drew Carey,8,Comedian,Ohio,United States,55,7.5000
+18,Cody Simpson,9,Singer/Rapper,,Australia,17,8.0000
+18,Billy Dee Williams,10,Actor/Actress,New York,United States,76,5.0000
+18,Sean Avery,11,Athlete,,Canada,33,6.8333
+18,Diana Nyad,12,Athlete,New York,United States,64,6.0000
+19,Alfonso Ribeiro,1,Actor/Actress,New York,United States,42,9.1818
+19,Sadie Robertson,2,TV Personality,Louisiana,United States,17,8.7917
+19,Janel Parrish,3,Actor/Actress,Hawaii,United States,25,9.0455
+19,Bethany Mota,4,Social Media Personality,California,United States,18,9.0114
+19,Tommy Chong,5,Comedian,,Canada,76,7.1625
+19,Lea Thompson,6,Actor/Actress,Minnesota,United States,53,8.4722
+19,Michael Waltrip,7,Racing Driver,Kentucky,United States,51,6.4062
+19,Antonio Sabato Jr.,8,Actor/Actress,,Italy,42,7.1250
+19,Jonathan Bennett,9,Actor/Actress,Ohio,United States,33,7.1667
+19,Betsey Johnson,10,Fashion Designer,Connecticut,United States,72,6.6250
+19,Randy Couture,11,Athlete,Washington,United States,51,7.0833
+19,Tavis Smiley,12,Radio Personality,Mississippi,United States,50,7.1250
+19,Lolo Jones,13,Athlete,Iowa,United States,32,5.5000
+20,Rumer Willis,1,Actor/Actress,Kentucky,United States,26,9.0625
+20,Riker Lynch,2,Actor/Actress,Colorado,United States,23,9.0750
+20,Noah Galloway,3,Motivational Speaker,Alabama,United States,33,8.0125
+20,Nastia Liukin,4,Athlete,,Russia,25,9.0972
+20,Chris Soules,5,TV Personality,Iowa,United States,33,7.0938
+20,Robert Herjavec,6,Entrepreneur,,Croatia,52,7.4531
+20,Willow Shields,7,Actor/Actress,New Mexico,United States,14,8.4821
+20,Patti LaBelle,8,Singer/Rapper,Pennsylvania,United States,70,6.9167
+20,Suzanne Somers,9,Actor/Actress,California,United States,68,6.7000
+20,Michael Sam,10,Athlete,Texas,United States,25,6.7500
+20,Charlotte McKinney,11,Model,Florida,United States,21,5.8333
+20,Redfoo,12,Singer/Rapper,California,United States,39,6.6250
+21,Bindi Irwin,1,TV Personality,,Australia,17,9.2639
+21,Nick Carter,2,Singer/Rapper,New York,United States,35,9.1111
+21,Alek Skarlatos,3,Military,California,United States,22,8.1667
+21,Carlos PenaVega,4,Actor/Actress,Missouri,United States,26,9.0000
+21,Tamar Braxton,5,Singer/Rapper,Maryland,United States,38,8.5333
+21,Alexa PenaVega,6,Actor/Actress,Florida,United States,27,8.5500
+21,Andy Grammer,7,Singer/Rapper,California,United States,31,8.2593
+21,Hayes Grier,8,Social Media Personality,North Carolina,United States,15,7.9375
+21,Paula Deen,9,TV Personality,Georgia,United States,68,5.7857
+21,Gary Busey,10,Actor/Actress,Texas,United States,71,5.5769
+21,Kim Zolciak-Biermann,11,TV Personality,Florida,United States,37,5.0833
+21,Victor Espinoza,12,Athlete,,Mexico,43,5.5833
+21,Chaka Khan,13,Singer/Rapper,Illinois,United States,62,4.6667
+22,Nyle DiMarco,1,Model,New York,United States,26,8.7031
+22,Paige VanZant,2,Athlete,Oregon,United States,22,8.6771
+22,Ginger Zee,3,News Anchor,California,United States,35,8.4635
+22,Wanya Morris,4,Singer/Rapper,Pennsylvania,United States,42,8.5345
+22,Antonio Brown,5,Athlete,Florida,United States,27,7.8793
+22,Jodie Sweetin,6,Actor/Actress,California,United States,34,7.9423
+22,Von Miller,7,Athlete,Texas,United States,27,7.4783
+22,Kim Fields,8,Actor/Actress,New York,United States,46,7.4348
+22,Doug Flutie,9,Athlete,Maryland,United States,53,6.4000
+22,Marla Maples,10,TV Personality,Georgia,United States,52,6.9231
+22,Mischa Barton,11,Actor/Actress,,England,30,5.4444
+22,Geraldo Rivera,12,Journalist,New York,United States,72,4.3333
+23,Laurie Hernandez,1,Athlete,New Jersey,United States,16,9.0708
+23,James Hinchcliffe,2,Racing Driver,,Canada,29,9.0125
+23,Calvin Johnson Jr.,3,Athlete,Georgia,United States,30,8.5083
+23,Jana Kramer,4,Singer/Rapper,Michigan,United States,32,8.5000
+23,Terra Jole,5,TV Personality,Texas,United States,36,8.1806
+23,Marilu Henner,6,Actor/Actress,Illinois,United States,64,7.7273
+23,Ryan Lochte,7,Athlete,New York,United States,32,7.1724
+23,Maureen McCormick,8,Actor/Actress,California,United States,60,7.2308
+23,Amber Rose,9,Model,Pennsylvania,United States,32,6.7727
+23,Vanilla Ice,10,Singer/Rapper,Texas,United States,48,6.4667
+23,Babyface,11,Singer/Rapper,Indiana,United States,57,6.6000
+23,Rick Perry,12,Politician,Texas,United States,66,5.4167
+23,Jake T. Austin,13,Actor/Actress,New York,United States,21,5.7500
+24,Rashad Jennings,1,Athlete,Virginia,United States,32,8.7917
+24,David Ross,2,Athlete,Georgia,United States,40,7.8208
+24,Normani,3,Singer/Rapper,Georgia,United States,20,8.9708
+24,Simone Biles,4,Athlete,Ohio,United States,20,8.7917
+24,Bonner Bolton,5,Athlete,Texas,United States,29,7.1094
+24,Nick Viall,6,TV Personality,Wisconsin,United States,36,7.2679
+24,Nancy Kerrigan,7,Athlete,Massachusetts,United States,47,8.1250
+24,Heather Morris,8,Actor/Actress,California,United States,30,8.2083
+24,Erika Jayne,9,Singer/Rapper,Georgia,United States,45,7.0000
+24,Mr. T,10,Actor/Actress,Illinois,United States,64,5.8750
+24,Charo,11,Actor/Actress,,Spain,66,5.8333
+24,Chris Kattan,12,Comedian,California,United States,46,4.8750
+25,Jordan Fisher,1,Actor/Actress,Alabama,United States,23,9.2188
+25,Lindsey Stirling,2,Musician,California,United States,31,8.9531
+25,Frankie Muniz,3,Actor/Actress,New Jersey,United States,31,8.4028
+25,Drew Scott,4,TV Personality,,Canada,39,7.8750
+25,Victoria Arlen,5,Athlete,New Hamshire,United States,22,8.1607
+25,Terrell Owens,6,Athlete,Alabama,United States,43,7.6600
+25,Vanessa Lachey,7,TV Personality,,Philippines,36,8.1136
+25,Nikki Bella,8,Athlete,California,United States,33,7.7955
+25,Nick Lachey,9,Singer/Rapper,Kentucky,United States,43,6.7368
+25,Sasha Pieterse,10,Actor/Actress,,South Africa,21,7.1667
+25,Derek Fisher,11,Athlete,Arkansas,United States,43,6.7500
+25,Debbie Gibson,12,Singer/Rapper,New York,United States,47,6.2500
+25,Barbara Corcoran,13,Entrepreneur,New Jersey,United States,68,5.1667
+26,Adam Rippon,1,Athlete,Pennsylvania,United States,28,9.3571
+26,Josh Norman,2,Athlete,South Carolina,United States,30,8.7143
+26,Tonya Harding,3,Athlete,Oregon,United States,47,8.5000
+26,Mirai Nagasu,4,Athlete,California,United States,25,8.6364
+26,Chris Mazdzer,5,Athlete,Massachusetts,United States,29,7.9091
+26,Jennie Finch Daigle,6,Athlete,California,United States,37,7.4091
+26,Arike Ogunbowale,7,Athlete,Wisconsin,United States,21,7.8571
+26,Kareem Abdul-Jabbar,8,Athlete,New York,United States,71,6.6429
+26,Johnny Damon,9,Athlete,Kansas,United States,44,6.0000
+26,Jamie Anderson,10,Athlete,California,United States,27,6.3333
+27,Bobby Bones,1,Radio Personality,Arkansas,United States,38,7.4630
+27,Milo Manheim,2,Actor/Actress,California,United States,17,9.0926
+27,Evanna Lynch,3,Actor/Actress,,Ireland,27,8.6852
+27,Alexis Ren,4,Social Media Personality,California,United States,21,8.8333
+27,Juan Pablo Di Pace,5,Actor/Actress,,Argentina,39,9.1250
+27,Joe Amabile,6,TV Personality,Illinois,United States,32,6.2500
+27,DeMarcus Ware,7,Athlete,Alabama,United States,36,8.2381
+27,John Schneider,8,Actor/Actress,New York,United States,58,7.2143
+27,Mary Lou Retton,9,Athlete,West Virginia,United States,50,7.8889
+27,Tinashe,10,Singer/Rapper,Kentucky,United States,25,8.5000
+27,Nancy McKeon,11,Actor/Actress,New York,United States,52,6.8889
+27,Danelle Umstead,12,Athlete,New Mexico,United States,46,6.0833
+27,Nikki Glaser,13,Comedian,Ohio,United States,34,5.8333
+28,Hannah Brown,1,TV Personality,Alabama,United States,24,8.4143
+28,Kel Mitchell,2,Actor/Actress,Illinois,United States,41,8.3000
+28,Ally Brooke,3,Singer/Rapper,Texas,United States,26,8.5857
+28,Lauren Alaina,4,Singer/Rapper,Georgia,United States,24,8.0143
+28,James Van Der Beek,5,Actor/Actress,Connecticut,United States,42,8.2969
+28,Sean Spicer,6,Politician,New York,United States,48,5.8621
+28,Kate Flannery,7,Actor/Actress,Pennsylvania,United States,55,7.4800
+28,Karamo Brown,8,TV Personality,Texas,United States,38,6.8409
+28,Sailor Brinkley-Cook,9,Model,New York,United States,21,7.4211
+28,Lamar Odom,10,Athlete,New York,United States,39,4.2308
+28,Ray Lewis,11,Athlete,Florida,United States,44,5.0000
+28,Mary Wilson,12,Singer/Rapper,Nevada,United States,75,5.3333
+29,Kaitlyn Bristowe,1,TV Personality,,Canada,35,8.6667
+29,Nev Schulman,2,Producer,New York,United States,35,8.7879
+29,Nelly,3,Singer/Rapper,Texas,United States,45,7.6515
+29,Justina Machado,4,Actor/Actress,Illinois,United States,48,8.3636
+29,Skai Jackson,5,Actor/Actress,New York,United States,18,7.8500
+29,Johnny Weir,6,Athlete,Pennsylvania,United States,36,8.3500
+29,AJ McLean,7,Singer/Rapper,Florida,United States,42,7.8148
+29,Chrishell Stause,8,Actor/Actress,Kentucky,United States,39,7.1250
+29,Jeannie Mai,9,TV Personality,California,United States,41,7.2857
+29,Monica Aldama,10,TV Personality,Alabama,United States,48,7.3810
+29,Veron Davis,11,Athlete,Washington D.C.,United States,36,6.7222
+29,Jesse Metcalfe,12,Actor/Actress,California,United States,41,6.5333
+29,Anne Heche,13,Actor/Actress,Ohio,United States,51,6.0000
+29,Carole Baskin,14,TV Personality,Texas,United States,59,4.3333
+29,Charles Oakley,15,Athlete,Ohio,United States,56,4.5000
+30,Iman Shumpert,1,Athlete,Illinois,United States,31,7.9744
+30,JoJo Siwa,2,Social Media Personality,Nebraska,United States,18,9.2051
+30,Cody Rigsby,3,Fitness Instructor,California,United States,34,7.9615
+30,Amanda Kloots,4,TV Personality,Ohio,United States,39,8.9615
+30,Suni Lee,5,Athlete,Minnesota,United States,18,8.4714
+30,Melora Hardin,6,Actor/Actress,Texas,United States,54,8.5286
+30,Jimmie Allen,7,Singer/Rapper,Delaware,United States,36,7.8548
+30,Olivia Jade,8,Social Media Personality,California,United States,21,8.4194
+30,"Mike ""The Miz"" Mizanin",9,Athlete,Ohio,United States,40,7.5000
+30,Kenya Moore,10,TV Personality,Michigan,United States,50,7.3261
+30,Melanie C,11,Singer/Rapper,,England,47,7.7895
+30,Matt James,12,Athlete,North Carolina,United States,29,6.3000
+30,Brian Austin Green,13,Actor/Actress,California,United States,48,6.1333
+30,Christine Chiu,14,TV Personality,,Taiwan China,38,6.3636
+30,Martin Kove,15,Actor/Actress,New York,United States,75,3.5000
+31,Charli D'Amelio,1,Social Media Personality,Connecticut,United States,18,9.4750
+31,Gabby Windey,2,TV Personality,Illinois,United States,31,9.0625
+31,Wayne Brady,3,Comedian,Georgia,United States,50,9.0625
+31,Shangela,4,TV Personality,Texas,United States,40,8.6375
+31,Daniel Durant,5,Actor/Actress,Michigan,United States,32,8.1528
+31,Trevor Donovan,6,Actor/Actress,California,United States,39,7.9583
+31,Vinny Guadagnino,7,TV Personality,New York,United States,34,6.7344
+31,Heidi D'Amelio,8,Social Media Personality,Louisiana,United States,50,8.2188
+31,Jordin Sparks,9,Singer/Rapper,Arizona,United States,32,7.8571
+31,Jessie James Decker,10,Singer/Rapper,,Italy,34,7.0833
+31,Joseph Baena,11,Actor/Actress,California,United States,24,6.9500
+31,Selma Blair,12,Actor/Actress,Michigan,United States,50,7.8000
+31,Sam Champion,13,News Anchor,Kentucky,United States,61,6.0000
+31,Cheryl Ladd,14,Actor/Actress,South Dakota,United States,71,5.5000
+31,Teresa Giudice,15,TV Personality,New Jersey,United States,50,5.3750
+31,Jason Lewis,16,Actor/Actress,California,United States,51,4.5000
+32,Xochitl Gomez,1,Actor/Actress,California,United States,17,9.1842
+32,Jason Mraz,2,Singer/Rapper,Virginia,United States,46,8.9342
+32,Ariana Madix,3,TV Personality,Florida,United States,38,8.9342
+32,Charity Lawson,4,TV Personality,Georgia,United States,27,8.8684
+32,Alyson Hannigan,5,Actor/Actress,Washington D.C.,United States,49,7.3947
+32,Harry Jowsey,6,TV Personality,,Australia,26,6.5312
+32,Barry Williams,7,Actor/Actress,California,United States,68,7.0536
+32,Lele Pons,8,Social Media Personality,,Venezuela,27,7.7708
+32,Mauricio Umansky,9,TV Personality,,Mexico,53,6.3000
+32,Mira Sorvino,10,Actor/Actress,New York,United States,55,6.5000
+32,Adrian Peterson,11,Athlete,Texas,United States,38,5.8462
+32,Tyson Beckford,12,Model,New York,United States,52,5.0000
+32,Jamie Lynn Spears,13,Actor/Actress,Mississippi,United States,32,5.1667
+32,Matt Walsh,14,Comedian,Illinois,United States,58,4.0000
+33,Joey Graziadei,1,TV Personality,Louisiana,United States,29,8.8966
+33,Ilona Maher,2,Athlete,California,United States,28,8.0000
+33,Chandler Kinney,3,Actor/Actress,California,United States,24,9.0172
+33,Stephen Nedoroscik,4,Athlete,Florida,United States,26,8.3448
+33,Danny Amendola,5,Athlete,Texas,United States,39,8.3103
+33,Dwight Howard ,6,Athlete,Georgia,United States,38,7.7391
+33,Jenn Tran,7,TV Personality,Florida,United States,26,7.8750
+33,Phaedra Parks,8,TV Personality,Georgia,United States,51,7.2941
+33,Brooks Nader,9,Model,New York,United States,27,7.1786
+33,Eric Roberts,10,Actor/Actress,California,United States,68,5.3000
+33,Reginald VelJohnson,10,Actor/Actress,New York,United States,74,5.2000
+33,Tori Spelling,12,Actor/Actress,California,United States,51,6.0000
+33,Anna Delvey,12,Con artist,,Russia,33,5.8333
+34,Robert Irwin,1,Conservationist,,Australia,22,8.9775
+34,Alix Earle,2,Social media personality,Florida,United States,24,8.9595
+34,Jordan Chiles,3,Athlete,Texas,United States,24,8.7883
+34,Dylan Efron,4,TV Personality,California,United States,33,8.6171
+34,Elaine Hendrix,5,Actor/Actress,Georgia,United States,55,8.2973
+34,Whitney Leavitt,6,TV Personality,Utah,United States,32,9.1324
+34,Andy Richter,7,Comedian,California,United States,59,6.5806
+34,Danielle Fishel,8,Actor/Actress,California,United States,44,7.7778
+34,Jen Affleck,9,TV Personality,Utah,United States,26,7.4348
+34,Scott Hoying,10,Singer/Rapper,California,United States,34,6.7895
+34,Hilaria Baldwin,11,Entrepreneur,New York,United States,41,7.2727
+34,Lauren Jauregui,12,Singer/Rapper,Florida,United States,29,6.5000
+34,Corey Feldman,13,Actor/Actress,California,United States,54,4.8000
+34,Baron Davis,13,Athlete,California,United States,46,5.6000
